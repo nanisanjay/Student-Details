@@ -1,0 +1,49 @@
+ul
+{
+background-color:lightcoral;
+text-decoration:none;
+border:1px solid black;
+margin-left:50px;
+padding:30px;
+}
+li
+{
+display:block;
+display:inline;
+margin-left:60px;
+}
+a
+{
+text-decoration:none;
+color:black;
+}
+li a:hover
+{
+color:blue;   
+}
+
+
+
+
+#xyz
+{
+border-right:2px solid black;
+padding:30px;
+margin-left:50px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	border:2px solid black;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+	border:2px solid black;
+}
+th :hover 
+{
+	color:white;
+}
